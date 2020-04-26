@@ -9,4 +9,4 @@ In order to be execute this project, first you need to import bazingadb file to 
 <hr>
 
 <img src="screenshots/welcome.png" width="500" height="200"> <img src="screenshots/timeline.png" width="400" height="200">
-<img src="screenshots/notification.png" width="300" height="200"><img src="screenshots/requests.png" width="300" height="200"><img src="screenshots/settings.png" width="300" height="200">
+<img src="screenshots/notification.png" width="300" height="150"> <img src="screenshots/requests.png" width="300" height="150"> <img src="screenshots/settings.png" width="300" height="150">
