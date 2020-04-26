@@ -1,0 +1,38 @@
+#contentText {
+    border: none;
+    min-height: 60px;
+    max-height: 120px;
+    width: 100%;
+}
+
+#pp {
+    width: 50px;
+    height: 50px;
+}
+
+#prev_next {
+    width: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#prev {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+#next {
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+#likeBtn {
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
